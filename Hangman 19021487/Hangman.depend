@@ -1,0 +1,166 @@
+# depslib dependency file v1.0
+1590815314 source:c:\users\admin\desktop\hangman - copy\draw.cpp
+	<iostream>
+	<cstdlib>
+	<vector>
+	<windows.h>
+
+1590813241 source:c:\users\admin\desktop\hangman - copy\hangman4.2.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	<vector>
+	<algorithm>
+	<windows.h>
+	<string.h>
+	"draw.h"
+	"utility.h"
+
+1590813241 c:\users\admin\desktop\hangman - copy\draw.h
+	<string>
+
+1589474519 c:\users\admin\desktop\hangman - copy\utility.h
+	<string>
+
+1589474496 source:c:\users\admin\desktop\hangman - copy\utility.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+
+1591091553 source:c:\users\admin\desktop\hangman\hangman4.2.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	<vector>
+	<algorithm>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	"utility.h"
+	"draw.h"
+	"botCore.h"
+
+1591067626 c:\users\admin\desktop\hangman\draw.h
+	<string>
+
+1591059279 c:\users\admin\desktop\hangman\utility.h
+	<string>
+
+1591059279 source:c:\users\admin\desktop\hangman\utility.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+
+1591091670 source:c:\users\admin\desktop\hangman\draw.cpp
+	<iostream>
+	<cstdlib>
+	<vector>
+	<windows.h>
+
+1591066856 source:c:\users\admin\desktop\hangman\botcore.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<vector>
+	<algorithm>
+	<string.h>
+	<windows.h>
+	"draw.h"
+
+1591062999 c:\users\admin\desktop\hangman\botcore.h
+	<string>
+
+1591171223 source:c:\users\admin\desktop\hangman 19021487\botcore.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<vector>
+	<algorithm>
+	<string.h>
+	<windows.h>
+	"draw.h"
+
+1591067626 c:\users\admin\desktop\hangman 19021487\draw.h
+	<string>
+
+1591091670 source:c:\users\admin\desktop\hangman 19021487\draw.cpp
+	<iostream>
+	<cstdlib>
+	<vector>
+	<windows.h>
+
+1591176083 source:c:\users\admin\desktop\hangman 19021487\hangman4.2.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	<vector>
+	<algorithm>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	"utility.h"
+	"draw.h"
+	"botCore.h"
+
+1591059279 c:\users\admin\desktop\hangman 19021487\utility.h
+	<string>
+
+1591171255 c:\users\admin\desktop\hangman 19021487\botcore.h
+	<string>
+
+1591059279 source:c:\users\admin\desktop\hangman 19021487\utility.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+
+1591171223 source:c:\users\admin\desktop\hangman 19021487 - copy\botcore.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<vector>
+	<algorithm>
+	<string.h>
+	<windows.h>
+	"draw.h"
+
+1591067626 c:\users\admin\desktop\hangman 19021487 - copy\draw.h
+	<string>
+
+1591091670 source:c:\users\admin\desktop\hangman 19021487 - copy\draw.cpp
+	<iostream>
+	<cstdlib>
+	<vector>
+	<windows.h>
+
+1591059279 source:c:\users\admin\desktop\hangman 19021487 - copy\utility.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+
+1591171213 source:c:\users\admin\desktop\hangman 19021487 - copy\hangman4.2.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	<vector>
+	<algorithm>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	"utility.h"
+	"draw.h"
+	"botCore.h"
+
+1591059279 c:\users\admin\desktop\hangman 19021487 - copy\utility.h
+	<string>
+
+1591171255 c:\users\admin\desktop\hangman 19021487 - copy\botcore.h
+	<string>
+
